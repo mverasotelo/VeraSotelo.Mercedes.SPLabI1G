@@ -59,7 +59,7 @@ int main()
                 break;
 
             case 3: //ASIGNAR ESTADISTICAS
-                if(!flagFile && flagEstad)
+                if(!flagFile)
                 {
                     lista = ll_map(lista,setValoresRandom);
 
