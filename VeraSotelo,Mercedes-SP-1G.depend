@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1625531048 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"veraSotelo.h"
+	"pais.h"
+
+1625530509 c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\linkedlist.h
+
+1625527797 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625530702 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\verasotelo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"veraSotelo.h"
+
+1625530695 c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\verasotelo.h
+
+1625513896 c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\bicicleta.h
+
+1625514083 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bicicleta.h"
+
+1625523263 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1625530682 c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\parser.h
+	"LinkedList.h"
+	"pais.h"
+
+1625531139 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Controller.h"
+
+1625530481 c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\controller.h
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+
+1625530673 c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\pais.h
+
+1625531136 source:c:\users\mer-v\downloads\code blocks\verasotelo,mercedes-sp-1g\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pais.h"
+
